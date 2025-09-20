@@ -1,7 +1,7 @@
 # Alacritty Mac Terminal – Blazing-Fast GPU-Accelerated Terminal for macOS
 
 <div align="center">  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnmMjqpYVXvphmVfikkCqAnM2jyAArdq9pw&s" alt="Alacritty Mac Terminal Logo" width="256" height="256">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnmMjqpYVXvphmVfikkCqAnM2jyAArdq9pw&s" alt="Alacritty Mac Terminal Logo" width="500" height="500">  
 </div>  
 
 <div align="center">  
